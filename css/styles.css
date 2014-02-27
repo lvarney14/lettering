@@ -1,0 +1,25 @@
+/* Your Awesome Website */
+
+.word1 {
+	background: red;
+	font-size: 2em;
+}
+
+.word1:hover{
+	background: blue;
+	transition: background: 2s;
+}
+
+.word2 {
+	background: green;
+	border-radius: 20px;
+}
+
+.line1{
+	font-style: italic;
+	background: yellow;
+}
+
+.line2{
+
+}
